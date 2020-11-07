@@ -1,0 +1,27 @@
+@media only screen and (max-width: 768px) {
+    nav.navbar .navbar-brand img.logo {
+        width: 80px;
+    }
+
+    .banner-content {
+        padding-top: 1vh;
+    }
+
+    .banner-info h1 {
+        color: #fff;
+        padding-top: 0px;
+        line-height: 1.5;
+        font-size: 24px;
+        text-align: center
+    }
+
+    .pt-80 {
+        padding-top: 20px !important;
+    }
+    .bg-gray{
+        padding: 0px 20px;
+    }
+    .tab .nav-tabs{
+        border-radius: 0px
+    }
+}
